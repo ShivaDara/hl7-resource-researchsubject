@@ -118,7 +118,7 @@ NOAUTH=true meteor
 
 This package conforms to version `FHIR 1.6.0 - STU3 Ballot`, as per the Touchstone testing utility.  
 
-![https://raw.githubusercontent.com/clinical-meteor/hl7-resource-researchsubject/master/screenshots/Screen%20Shot%202017-03-18%20at%2010.56.09%20PM.png](https://raw.githubusercontent.com/clinical-meteor/hl7-resource-researchsubject/master/screenshots/Screen%20Shot%202017-03-18%20at%2010.56.09%20PM.png)  
+![https://raw.githubusercontent.com/ShivaDara/hl7-resource-researchsubject/master/screenshots/Screen%20Shot%202017-03-18%20at%2010.56.09%20PM.png](https://raw.githubusercontent.com/ShivaDara/hl7-resource-researchsubject/master/screenshots/Screen%20Shot%202017-03-18%20at%2010.56.09%20PM.png)  
 
 
 --------------------------------------------  

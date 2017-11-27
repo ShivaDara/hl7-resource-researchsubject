@@ -2,7 +2,7 @@ Package.describe({
   name: 'clinical:hl7-resource-researchsubject',
   version: '3.0.12',
   summary: 'HL7 FHIR Resource - ResearchSubject',
-  git: 'https://github.com/clinical-meteor/hl7-resource-researchsubject',
+  git: 'https://github.com/ShivaDara/hl7-resource-researchsubject',
   documentation: 'README.md'
 });
 
